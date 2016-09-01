@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi,everyone!
+It's a wonderful journey.
